@@ -1,0 +1,23 @@
+.banner {
+  position: relative;
+  background-image: url(../../images/background.png);
+  background: cover;
+  background-position: center;
+  padding: 200px 0px;
+}
+
+.container h1 {
+  color: rgb(255,255,255);
+  display: block;
+}
+
+.container p {
+  color: #afb0af;
+  display: block;
+}
+
+.container {
+  margin: auto;
+  width: 900px;
+  justify-content: center;
+}

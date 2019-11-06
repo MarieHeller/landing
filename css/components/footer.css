@@ -1,0 +1,22 @@
+.footer {
+  background-color: #3C4245;
+  text-align: center;
+  padding: 50px;
+}
+
+.footer h2 {
+  font-size: 25px;
+  color: white;
+  font-weight: light;
+}
+
+.footer-links {
+  display: block;
+  justify-content: space-between;
+  margin-right: 5px;
+}
+
+.footer a {
+  color: grey;
+  font-size: 30px;
+}
