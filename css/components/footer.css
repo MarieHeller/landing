@@ -1,22 +1,27 @@
 .footer {
-  background-color: #3C4245;
+  background-color: #6a1051;
   text-align: center;
-  padding: 50px;
+  padding: 30px;
 }
 
 .footer h2 {
-  font-size: 25px;
+  font-size: 32px;
   color: white;
-  font-weight: light;
+  font-family: 'Sacramento', cursive;
 }
 
 .footer-links {
   display: block;
   justify-content: space-between;
-  margin-right: 5px;
+  object-fit: center;
 }
 
 .footer a {
-  color: grey;
+  color: #6AD58B;
   font-size: 30px;
+  margin-right: 3px;
+}
+
+.footer a:hover {
+  color: #3bc162;
 }
